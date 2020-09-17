@@ -1,7 +1,7 @@
 # Rústico
 
-Web Developer contribuindo com packages para o NPM.
-CEO do @ManneBot | Um bot criado para o Discord.
+Web Developer contribuindo com packages para o NPM.<br />
+CEO do **@ManneBot**. Um bot criado para o Discord.
 
 <p align="left">
     <a href="https://discord.gg/TnW7mgR">
@@ -9,7 +9,7 @@ CEO do @ManneBot | Um bot criado para o Discord.
     </a>
 </p>
 
-Tenho 15 anos, atualmente programo aplicações e websites utilizando **HTML**, **CSS**
+Tenho 15 anos, atualmente programo aplicações e websites utilizando **HTML**, **CSS**<br />
 e **Node.js**, com o sonho de me tornar um grande programador web.
 
 <p align = "center">
