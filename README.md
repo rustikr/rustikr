@@ -6,7 +6,7 @@
         Mas claro, não esqueça de <strong>CSS3</strong> e <strong>Bootstrap</strong>. 😎<br><br>
         👉 Atualmente aprendendo <strong>React</strong>, <strong>React Native</strong> e <strong>TypeScript</strong>.</p>
     <p align="center">
-        <img align="center" alt="My discord" src="https://img.shields.io/badge/Discord-aff1mars%230006-red">
+        <img align="center" alt="My discord" src="https://img.shields.io/badge/Discord-1mars%230006-inactive">
         <img align="center" alt="Actual project" src="https://img.shields.io/badge/Projeto%20Atual-Caxinha-success">
     </p>
 </div>
