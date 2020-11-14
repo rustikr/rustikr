@@ -9,11 +9,13 @@
         <img align="center" alt="My discord" src="https://img.shields.io/badge/Discord-chsooma%230001-inactive">
         <img align="center" alt="Actual project" src="https://img.shields.io/badge/Projeto%20Atual-Jeth%20v4-success">
     </p>
+    <p align="center">
     <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
     <img src="https://xesque.rocketseat.dev/platform/tech/node.svg"> 
     <img src="https://xesque.rocketseat.dev/platform/tech/html5.svg"> 
     <img src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg"> 
-    <img src="https://xesque.rocketseat.dev/platform/tech/typescript.svg"> 
+    <img src="https://xesque.rocketseat.dev/platform/tech/typescript.svg">
+    </p>
 </p>
 
 <p align = "center">
