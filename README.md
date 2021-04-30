@@ -1,15 +1,7 @@
-<p align="center">
-    <img align="center" src="https://github.com/chsooma/chsooma/blob/master/st_small_215x235-pad_210x230_f8f8f8.lite-1u1-removebg-preview.png">
-    <p align="center">Working at <strong>home</strong>.
-        <br>At <strong>Jeth</strong> team and owning the <strong>2D</strong> Discord bot.</p>
-    <p align="center">
-        <img align="center" alt="My discord" src="https://img.shields.io/badge/Discord-chsooma%230001-inactive"
-    </p>
-    <p align="center">
-    <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
-    <img src="https://xesque.rocketseat.dev/platform/tech/node.svg"> 
-    <img src="https://xesque.rocketseat.dev/platform/tech/html5.svg"> 
-    <img src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg"> 
-    <img src="https://xesque.rocketseat.dev/platform/tech/typescript.svg">
-    </p>
-</p>
+# 💻 Howdy! 👋
+Welcome to my GitHub profile! My name is **Giulian Moitinho**, here you can find my works and hobbies.<br/>
+I currently develop in **Java**, **JavaScript**. Studying **Java Bukkit**, **Gradle** and **Web Developing**.
+
+<img src="https://xesque.rocketseat.dev/platform/tech/java.svg"> <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg"> <img src="https://xesque.rocketseat.dev/platform/tech/node.svg">
+
+![Github Contributions](https://github-readme-stats.vercel.app/api?username=flqwzy&show_icons=true&hide_title=true&count_private=true&bg_color=040404&border_color=040404&text_color=e0e0e0)
