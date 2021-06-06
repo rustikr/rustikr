@@ -10,7 +10,6 @@ Acesse meu website (em desenvolvimento) [killerguri.pt](https://killerguri.pt/).
 
 ### :rocket: Alguns trabalhos e projetos
 
-- **Guri Plugins:** uma organização no Github e servidor no Discord de plugins gratuitos que eu faço.
-- **Mestre Network:** um servidor survival de Minecraft RPG em desenvolvimento.
+- **Meu website:** Ainda em desenvolvimento, mas convenhamos: um belo de um site... *fiu fiu*
 
 <!-- ![Github Contributions](https://github-readme-stats.vercel.app/api?username=mstguri&show_icons=true&hide_title=true&count_private=true&bg_color=040404&border_color=040404&text_color=e0e0e0) -->
